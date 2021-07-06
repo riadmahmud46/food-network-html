@@ -1,5 +1,5 @@
 /******************************/
-/*      Global CSS         */
+/*      Global CSS            */
 /******************************/
 * {
   margin: 0;
@@ -148,7 +148,7 @@ section.about-area {
 }
 
 /******************************/
-/*      Recipe Area CSS        */
+/*      Recipe Area CSS       */
 /******************************/
 section.recipe-area .section-header {
   text-align: center;
@@ -194,7 +194,7 @@ section.recipe-area .section-header p {
 }
 
 /******************************/
-/*      Social status Area CSS */
+/*   Social status Area CSS   */
 /******************************/
 
 .social-area .social-status {
@@ -213,7 +213,7 @@ section.social-area h2 {
 }
 
 /******************************/
-/*      Why Choose us Area CSS */
+/*  Why Choose us Area CSS    */
 /******************************/
 
 section.why-choose-area .section-header {
@@ -250,7 +250,7 @@ section.why-choose-area {
 }
 
 /******************************/
-/*      Latest Post area  */
+/*      Latest Post area      */
 /******************************/
 
 section.latest-post-area {
@@ -297,7 +297,7 @@ section.latest-post-area .section-header {
 }
 
 /******************************/
-/*      Latest Post area  */
+/*      footer area           */
 /******************************/
 
 section.footer-area {
