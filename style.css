@@ -36,6 +36,7 @@ h2 {
 
 span {
   background: -webkit-linear-gradient(39deg, #fba24f, #ff1e1e);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -79,6 +80,7 @@ span {
 /* Text Gradient Overlay */
 .hero-area h1 span {
   background: -webkit-linear-gradient(39deg, #fba24f, #ff1e1e);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
