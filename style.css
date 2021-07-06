@@ -40,6 +40,10 @@ h2 {
   align-items: center;
 }
 
+/* Box Shadow */
+.box-shadow {
+  box-shadow: 0px 0px 12px 7px #ededed;
+}
 .container {
   width: 1170px;
   margin: 0 auto;
@@ -144,7 +148,7 @@ section.recipe-area .section-header {
 }
 
 section.recipe-area {
-  padding: 90px 0;
+  padding: 90px 0 50px 0;
 }
 
 section.recipe-area .section-header p {
@@ -155,9 +159,6 @@ section.recipe-area .section-header p {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-column-gap: 40px;
-}
-
-.recipe-items {
 }
 
 .recipe-area .single-recipe {
@@ -180,4 +181,35 @@ section.recipe-area .section-header p {
 
 .single-recipe img {
   margin-bottom: 25px;
+}
+
+/******************************/
+/*      Social status Area CSS        */
+/******************************/
+
+.social-area .social-status {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 70px 30px;
+  text-align: center;
+  margin: 30px;
+  border-radius: 30px;
+}
+
+section.social-area h2 {
+  margin-bottom: 13px;
+  font-weight: 700;
+  color: #000;
+}
+
+section.footer-area {
+  text-align: center;
+  padding: 80px;
+  background-color: #0b0d17;
+  color: #fff;
+  margin-top: 60px;
+}
+
+section.footer-area p {
+  margin-top: 30px;
 }
